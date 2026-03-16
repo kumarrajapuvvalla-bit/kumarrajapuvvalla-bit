@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kumar Raja Puvvala 👋</h1>
+<h1 align="center">Hi, I'm Kumar Raja Puvvalla 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=DevOps+%26+Platform+Engineer+%7C+3%2B+Years;AWS+%7C+Azure+%7C+GCP+%7C+Multi-Cloud;Terraform+%7C+Kubernetes+%7C+CI%2FCD+Expert;Financial+Services+%26+Healthcare+Tech;Glasgow%2C+UK+%7C+Open+to+Opportunities" alt="Typing SVG" />
@@ -21,14 +21,14 @@
 
 ## 🧑‍💻 Profile Summary
 
-> **DevOps & Platform Engineer** with **3+ years** of experience designing, automating, and operating cloud infrastructure across **AWS**, **Azure**, and **GCP**. Proven track record delivering CI/CD pipelines, container platforms, and Infrastructure as Code in enterprise environments spanning **financial services** (PwC UK banking) and **healthcare technology** (Elekta). Passionate about building resilient, production-ready cloud systems that balance speed, security, and operational excellence.
+> **DevOps & Platform Engineer** with **3+ years** of experience designing, automating, and operating cloud infrastructure across **AWS**, **Azure**, and **GCP**. Proven track record delivering CI/CD pipelines, container platforms, and Infrastructure as Code in enterprise environments spanning **financial services** and **healthcare technology**. Passionate about building resilient, production ready cloud systems that balance speed, security, and operational excellence.
 
-- 🏢 Currently: **DevOps Engineer @ Tech Nxt Gen, UK** — Cloud Native AI SaaS on AWS EKS
-- 🏦 Previously: **Azure DevOps Engineer @ PwC Information Technology, UK** — Major UK Banking Transformation
-- 🏥 Previously: **DevOps Engineer @ Elekta, UK** — Medical Technology, Regulated Healthcare
+- 🏢 Currently: **DevOps Engineer** — Cloud Native AI SaaS on AWS EKS
+- 🏦 Previously: **Azure DevOps Engineer** — Major UK Banking Transformation
+- 🏥 Previously: **DevOps Engineer** — Medical Technology, Regulated Healthcare
 - 📍 Based in **Glasgow, Scotland, UK**
 - 🎓 **MSc Computer Science** — University of Hertfordshire, UK
-- 💼 Open to **Senior DevOps / Platform Engineering / SRE** roles (UK & Remote)
+- 💼 Open to **DevOps / Platform Engineering / SRE** roles (UK & Remote)
 
 ---
 
