@@ -11,9 +11,6 @@
   <a href="mailto:kumarrajapuvvalla@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+447918392150">
-    <img src="https://img.shields.io/badge/+44_7918_392150-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=kumarrajapuvvalla-bit&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
 </p>
 
